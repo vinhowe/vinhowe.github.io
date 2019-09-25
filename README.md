@@ -1,1 +1,1 @@
-# vinhowe.github.io
+# My vanilla HTML-CSS resume
