@@ -137,7 +137,7 @@ a:visited{
 .name-contact-box {
     display: flex;
     flex-direction: column;
-    align-content: flex-end;
+    align-items: flex-start;
 }
 
 .name-contact-box > * {
@@ -250,6 +250,10 @@ section {
     text-transform: none;
 }
 
+#education {
+    margin-top: 0;
+}
+
 @media only screen and (max-width: 40rem) {
     .skills-list {
         columns: 1;
@@ -267,6 +271,18 @@ section {
         flex-direction: column;
         align-items: flex-start;
         margin-bottom: 4pt;
+    }
+
+    body {
+        font-size: 100%;
+    }
+
+    .technologies {
+        font-size: 0.7rem;
+    }
+
+    #education {
+        margin-top: 4pt;
     }
 }
 
