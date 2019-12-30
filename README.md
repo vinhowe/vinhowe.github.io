@@ -1,1 +1,1 @@
-# My vanilla HTML-CSS resume
+resume/README.md
