@@ -1,3 +1,3 @@
 # vinhowe.github.io
 
-Currently just somewhere to host [my resume](https://github.com/vinhowe/resume).
+Just redirects to [howe.vin/resume](https://howe.vin/resume).
